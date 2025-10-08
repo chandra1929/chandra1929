@@ -27,7 +27,8 @@ Hello! I'm **K. Chandra Sekhar**, a passionate student specializing in Artificia
 *(Add your actual projects here with links if available)*
 
 ## Education
-- Currently pursuing Bachelor’s degree (4th Year) in [Your Major], [Your University Name]
+- Currently pursuing Bachelor’s degree (4th Year) in AI & Ml, Prasad V. Potluri Siddhartha Institute Of Technology
+
 
 ## Goals
 - To contribute to innovative AI and ML solutions that solve real-world problems.
