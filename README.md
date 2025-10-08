@@ -36,9 +36,9 @@ Hello! I'm **K. Chandra Sekhar**, a passionate student specializing in Artificia
 - To continuously learn and adapt to the evolving tech landscape.
 
 ## Contact
-- Email: [your.email@example.com]  
-- LinkedIn: [Your LinkedIn Profile]  
-- GitHub: [https://github.com/yourusername]
+- Email: chandrasekharkandula07@gmail.com 
+- LinkedIn: 
+- GitHub: [https://github.com/chandra1929]
 
 ---
 
